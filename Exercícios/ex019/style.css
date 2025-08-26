@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+SC:ital,wght@0,400;0,500;0,700;0,800;0,900;1,400;1,500;1,700;1,800;1,900&family=Ovo&display=swap');
+
+body{
+    background-color: #8AC6D0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #2D3142;
+    font: bolder 36px 'Alegreya SC', 'work sans';
+    background-color: #006C67;
+}
+
+h1#principal{
+    text-align: center;
+    background-color: #2D3142;
+    color: #8AC6D0;
+}
+
+h2{
+    color: #28464B;
+}
+
+.basico{
+    color: rgb(130, 54, 54);
+    font-weight: lighter;
+}
+
+.intermediario{
+    color: rgb(52, 52, 138);
+    font-weight: bold;
+}
+
+.avancado{
+    color: rgb(43, 107, 43);
+    font-weight: bold;
+}
